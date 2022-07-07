@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Stackoverflow',
-  description: 'Where Developers Learn & Share',
-  siteUrl: 'https://clone-of-stackoverflow.vercel.app',
-  googleAnalytic: 'UA-149699646-1',
+  title: 'TalentOverflow',
+  description: 'Where Recruiters Learn & Share',
+  siteUrl: 'https://talentoverflow.vercel.app',
+  googleAnalytic: 'G-8K89MCQEK5',
   author: {
-    email: 'salihozdemir94@gmail.com',
-    name: 'Salih Özdemir'
+    email: 'florian@feichtinger.co',
+    name: 'Florian Feichtinger'
   },
   lang: 'en'
 }
